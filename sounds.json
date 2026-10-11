@@ -1,0 +1,56 @@
+{
+  "delawere.smash.deku": {
+    "sounds": [
+      "delaware_smash"
+    ],
+    "category": "player"
+  },
+  "detriot.smash.deku": {
+    "sounds": [
+      "detriot_smash"
+    ],
+    "category": "player"
+  },
+  "one.for.all": {
+    "sounds": [
+      "one_for_all"
+    ],
+    "category": "player"
+  },
+  "luna.ring": {
+    "sounds": [
+      "luna_ring"
+    ],
+    "category": "player"
+  },
+  "lunar.ring": {
+    "sounds": [
+      "lunar_ring"
+    ],
+    "category": "player"
+  },
+  "luna.fall": {
+    "sounds": [
+      "luna_fall"
+    ],
+    "category": "player"
+  },
+  "luna.arc": {
+    "sounds": [
+      "luna_arc"
+    ],
+    "category": "player"
+  },
+  "red_riot.red_gauntlet": {
+    "sounds": [
+      "red_riot/red_gauntlet"
+    ],
+    "category": "player"
+  },
+  "red_riot.unbreakable": {
+    "sounds": [
+      "red_riot/unbreakable"
+    ],
+    "category": "player"
+  }
+}
